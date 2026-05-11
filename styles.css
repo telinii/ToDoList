@@ -1,0 +1,63 @@
+/* Define estilo geral da página */
+body {
+  font-family: 'Cathedral', sans-serif;
+  margin: 20px;
+}
+
+/* Estilo do título */
+h1 {
+  color: #ffffff;
+}
+
+/* Espaçamento abaixo do formulário */
+form {
+  margin-bottom: 20px;
+}
+
+/* Estilo dos campos de entrada e botão */
+input, button {
+  margin: 5px;
+  padding: 8px;
+}
+
+/* Remove os marcadores padrão da lista */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Estilo dos itens da lista de compromissos */
+li {
+  background: #181161;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #0f034680;
+    color: #ffffff;
+}
+
+li button {
+  background-color: #0e1f2d;
+  padding: 5px 10px;
+}
+
+li button:last-child {
+  background-color: #101326;
+}
+
+/* Estilo do fundo da página */
+body {
+  background-color: #0e151e;
+}
+
+
+
+
+
+
