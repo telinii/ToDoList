@@ -3,31 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <title>Agenda de Compromissos</title>
-  <!-- Importa o arquivo CSS para estilizar a página -->
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <!-- Título principal da aplicação -->
   <h1>Minha Agenda</h1>
   
-  <!-- Formulário para adicionar novos compromissos -->
   <form id="form-compromisso">
-    <!-- Campo para o título do compromisso -->
     <input type="text" id="titulo" placeholder="Título" required>
-    <!-- Campo para a data -->
     <input type="date" id="data" required>
-    <!-- Campo para o horário -->
     <input type="time" id="hora" required>
-    <!-- Campo para o local -->
     <input type="text" id="local" placeholder="Local" required>
-    <!-- Botão para enviar o formulário -->
-    <button type="submit">Adicionar</button>
+    <!-- Botão com id para casar com o JS -->
+    <button type="button" id="addBtn">Adicionar</button>
   </form>
 
-  <!-- Lista onde os compromissos serão exibidos -->
   <ul id="lista-compromissos"></ul>
 
-  <!-- Importa o arquivo JavaScript com a lógica da aplicação -->
-  <script src="script.js"></script>
+  <script type="module" src="script.js"></script>
 </body>
 </html>
