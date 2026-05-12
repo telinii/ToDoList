@@ -1,4 +1,5 @@
 # 👨‍💻 Autor: Luca Telini Crozara
+# 💼 Meu Linkedin: https://www.linkedin.com/in/luca-telini-crozara-19a609315/
 # 📅 Minha Agenda
 
 Uma aplicação simples de agenda de compromissos construída com **HTML, CSS, JavaScript** e integrada ao **Supabase** para persistência de dados.
