@@ -23,20 +23,23 @@ Uma aplicação simples de agenda de compromissos construída com **HTML, CSS, J
 ---
 
 ## 🚀 Como rodar o projeto
-1. Clone este repositório:
+1. Inicialize um banco de dados no Supabase
+
+   
+2. Clone este repositório:
    ```bash
    git clone https://github.com/telinii/todoList.git
 
-2. Entre na pasta:
+3. Entre na pasta:
    ```bash
    cd todoList
 
-3. Instale dependências (se usar bundler) ou rode direto com servidor local:
+4. Instale dependências (se usar bundler) ou rode direto com servidor local:
    ```bash
    npx serve
 
-4. Abra no navegador:
+5. Abra no navegador:
    ```bash
    http://localhost:3000
-   
+
 
