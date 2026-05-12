@@ -1,6 +1,4 @@
-# 👨‍💻 Autor: Luca Telini Crozara
-# 💼 Meu Linkedin: https://www.linkedin.com/in/luca-telini-crozara-19a609315/
-# 📅 Minha Agenda
+# 📅 Lista de Compromissos (TO-DO-List)
 
 Uma aplicação simples de agenda de compromissos construída com **HTML, CSS, JavaScript** e integrada ao **Supabase** para persistência de dados.
 
@@ -44,3 +42,11 @@ Uma aplicação simples de agenda de compromissos construída com **HTML, CSS, J
    http://localhost:3000
 
 
+---
+
+
+# 👨‍💻 Autor: Luca Telini Crozara
+# 💼 Meu Linkedin:
+### https://www.linkedin.com/in/luca-telini-crozara-19a609315/
+# 📸 Meu Instagram:
+### https://www.instagram.com/lucatelini_
